@@ -6,8 +6,6 @@ trademark: Trademark
 
 # About Node.js®
 
-
-
 ```javascript
 const http = require('http');
 
